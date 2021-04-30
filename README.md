@@ -1,5 +1,5 @@
 <h1>Pygame Projects</h1>
 
-<ul>
+<ol>
 <li>Space Invaders</li>
-</ul>
+</ol>
